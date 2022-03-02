@@ -29,3 +29,12 @@ Esta imagen puede tardar unos minutos en actualizarse.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+Los codigos del mando infrarojos son
+dcha -->6
+izda -->7
+adelante -->64 
+atras -->65
+sin volumen --> 9
+encender -> 8
+salir --> 11
